@@ -1,0 +1,3 @@
+[console_scripts]
+n2c = main:main
+nl2cmd = main:main

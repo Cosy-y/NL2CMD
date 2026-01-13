@@ -1,0 +1,18 @@
+include README.md
+include LICENSE
+include COMPLETE_PROJECT_DOCUMENTATION.md
+include N2C_USAGE_GUIDE.md
+include ARCHITECTURE.md
+include MULTI_COMMAND_FEATURE.md
+include DYNAMIC_PARAMETERS.md
+include CONTINUOUS_IMPROVEMENT_REPORT.md
+include requirements.txt
+include training_data_enhanced.json
+include *.pkl
+include setup.bat
+include setup.sh
+recursive-include nl2cmd *.py
+recursive-include nl2cmd *.json
+recursive-include nl2cmd *.pkl
+recursive-include nl2cmd *.txt
+recursive-include nl2cmd *.md
