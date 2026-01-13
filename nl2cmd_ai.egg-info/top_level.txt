@@ -1,6 +1,4 @@
-command_improver
 command_processor
-continuous_learner
 fuzzy_matcher
 input_processor
 intelligence_engine

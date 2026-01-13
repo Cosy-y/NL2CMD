@@ -1,15 +1,7 @@
-ARCHITECTURE.md
-COMPLETE_PROJECT_DOCUMENTATION.md
-CONTINUOUS_IMPROVEMENT_REPORT.md
-DYNAMIC_PARAMETERS.md
 LICENSE
 MANIFEST.in
-MULTI_COMMAND_FEATURE.md
-N2C_USAGE_GUIDE.md
 README.md
-command_improver.py
 command_processor.py
-continuous_learner.py
 fuzzy_matcher.py
 input_processor.py
 intelligence_engine.py
@@ -23,9 +15,8 @@ output_handler.py
 parameter_extractor.py
 requirements.txt
 safety.py
-setup.bat
+setup.cfg
 setup.py
-setup.sh
 tfidf_vectorizer.pkl
 train_model.py
 training_data_enhanced.json

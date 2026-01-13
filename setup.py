@@ -7,7 +7,7 @@ with open(os.path.join(this_directory, 'README.md'), encoding='utf-8') as f:
 
 setup(
     name="nl2cmd-ai",
-    version="3.0.2",
+    version="3.0.3",
     author="Cosy-y",
     author_email="your.email@example.com",
     description="Natural Language to Command Line Interface - Hybrid ML + Rule Engine with Git Support",
